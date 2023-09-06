@@ -1,2 +1,2 @@
-chromadb
-langchain
+chromadb==0.3.26
+langchain==0.0.271
